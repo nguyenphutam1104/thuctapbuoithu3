@@ -1,0 +1,260 @@
+.wrap{
+    width: 100%;    
+    display: flex;
+    height: auto;
+}
+.one {
+  display:block;
+}
+.Line-4 {
+    width: 186px;
+    height: 2px;
+    margin: 223.7px 197.5px 2px 379.5px;
+    background-color: #e03116;
+  }
+body{
+    width: 100%;
+}
+
+.The-Encompass-Platform-Seamlessly-Connects-the-Supply-Chain-Allowing-You-to {
+    width: 50%;
+    height: 214px;
+    margin: 29px 85.5px 134px 376.5px;
+    font-family: Poppins;
+    font-size: 36px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: -0.29px;
+    text-align: left;
+    color: #1f2c40;
+    float:left;
+  }
+  [class*="two-"] {
+    display:flex;
+  }
+  .container-2, .container-4 {
+    margin-left:88px
+  }
+  .content{
+    width: 60%;
+    float:right;
+    display:block;
+    margin:223.7px 394px 0px 87px;
+  }
+
+  .container{
+    width: 273px;
+    display:inline-block;
+
+
+
+  }
+  .Drive-Business-Growth {
+    width: 273px;
+    height: 33px;
+    margin: 0 0 7px;
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.17;
+    letter-spacing: -0.19px;
+    color: #1f2c40;
+  }
+  .Tap-into-the-power-of-predictive-analytics-and-demand-forecasting-Capitalize-on-revenue-generating {
+    width: 273px;
+    height: 294.8px;
+    margin: 7px 0 0;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: -0.14px;
+    color: var(--brownish-grey);
+  }
+  .Leverage-Real-Time-Data-for-Better-Decision-Making {
+    width:273px;
+    height: 33px;
+    margin: 0 0 7px;
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.17;
+    letter-spacing: -0.19px;
+    color: #1f2c40;
+  }
+  .Accelerate-business-decisions-with-better-more-accurate-system-to-system-data-and-comprehensive-rep {
+    width: 273px;
+    height: 245px;
+    margin: 7px 0 0;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: -0.14px;
+    color: var(--brownish-grey);
+  }
+  .Improve-Operational-Efficiencies {
+    width: 273px;
+    height: 62px;
+    margin: 0 0 7px;
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.17;
+    letter-spacing: -0.19px;
+    color: #1f2c40;
+  }
+  .Streamline-processes-and-save-money-by-reducing-leakage-with-a-fully-integrated-ERP-system-that-work {
+    width: 273px;
+    height: 248px;
+    margin: 7px 0 0;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: -0.14px;
+    color: var(--brownish-grey);
+  }
+  .Enhance-Team-Dynamics-Employee-Satisfaction {
+    width: 273px;
+    height: 62px;
+    margin: 0 0 7px;
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.17;
+    letter-spacing: -0.19px;
+    color: #1f2c40;
+  }
+  .When-your-labor-force-has-the-tools-they-need-to-succeed-the-workplace-runs-like-a-well-oiled-machi {
+    width: 271px;
+    height: 249px;
+    margin: 7px 0 0 2px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: -0.14px;
+    color: var(--brownish-grey);
+  }
+@media screen and (max-width: 1440px){
+  .one {
+    width: 50%;
+  }
+  .Line-4 {
+    width: 186px;
+    height: 2px;
+    margin: 273.8px 198.5px 2px 148.5px;
+    background-color: #e03116;
+  }
+  .The-Encompass-Platform-Seamlessly-Connects-the-Supply-Chain-Allowing-You-to {
+    width:  50%;
+    margin: 29px 85.5px 134px 145.5px;
+
+    
+  }
+  .content{
+    width: 50%;
+    display:block;
+    margin: 273.8px 0px;
+  }
+  [class*="two-"] {
+    display:flex;
+    padding: 0px 145px 0px 0px;
+  }
+}
+@media screen and (max-width: 1024px){
+  .wrap {
+    display:block;
+  }
+  .one {
+    width: 100%;
+  }
+  .Line-4 {
+    width: 186px;
+    height: 2px;
+    margin: 189.9px 222px 29px 104px;
+    background-color: #e03116;
+  }
+
+    .The-Encompass-Platform-Seamlessly-Connects-the-Supply-Chain-Allowing-You-to {
+        width:68%;
+        height: 214px;
+        margin: 29px 102px 51.9px 101px;
+        font-family: Poppins;
+        font-size: 36px;
+        font-weight: bold;  
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.33;
+        letter-spacing: -0.29px;
+        text-align: left;
+        color: #1f2c40;
+      }
+      .content{
+        width: 100%; 
+        display:block;
+        margin:51.9px 0px 130.1px 102px;
+      }
+      [class*="two-"]{
+        padding:0px 102px 0px;
+      }
+      .container-2, .container-4 {
+        margin-left: 55px;
+      }
+}
+@media only screen and (max-width: 768px){
+  .Line-4 {
+    width: 186px;
+    height: 2px;
+    margin: 161.9px 453px 29px 129px;
+    background-color: #e03116;
+  }
+  .The-Encompass-Platform-Seamlessly-Connects-the-Supply-Chain-Allowing-You-to {
+    width:62%;
+    height: auto;
+    margin: 29px 93px 64.1px 126px;
+    font-family: Poppins;
+    font-size: 36px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: -0.29px;
+    text-align: left;
+    color: #1f2c40;
+  }
+  [class*="two-"]{
+    width: 100%;
+    display: block;
+  }
+  .content{
+    width: 100%; 
+    display:block;
+  }
+  .container-2, .container-4 {
+    margin-left: 0px;
+  }
+
+  @media only screen and (max-width: 768px){
+
+  }
+  }
